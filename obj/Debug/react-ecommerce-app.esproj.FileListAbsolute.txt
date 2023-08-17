@@ -1,0 +1,1 @@
+D:\Visual Studio Programs\React\react-ecommerce-app\obj\Debug\react-ecommerce-app.esproj.CoreCompileInputs.cache
