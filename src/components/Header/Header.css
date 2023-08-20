@@ -3,7 +3,7 @@
 
 .header {
     background-color: #2874f0;
-    padding: 20px;
+    padding: 13px;
     color: #ffff;
     display: flex;
     justify-content: space-between;
@@ -17,7 +17,7 @@
     background-color: #fb641b;
     color: #ffff;
     padding: 10px 20px;
-    border: none;
+    margin-top: 5px;
     cursor: pointer;
 }
 

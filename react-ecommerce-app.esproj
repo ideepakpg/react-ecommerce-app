@@ -15,6 +15,8 @@
     <Folder Include="src\components\Header\" />
     <Folder Include="src\components\Home\" />
     <Folder Include="src\components\Footer\" />
+    <Folder Include="src\components\Logout\" />
+    <Folder Include="src\components\ProductDetails\" />
     <Folder Include="src\LayoutRoutes\" />
   </ItemGroup>
 </Project>
