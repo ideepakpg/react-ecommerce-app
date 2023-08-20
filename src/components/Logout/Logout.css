@@ -14,5 +14,9 @@
 
 .logout-container h1 {
     font-size: 16px;
-    color: #888;
+    color: #000000;
+}
+
+.logout-container p {
+    color: #000000;
 }
